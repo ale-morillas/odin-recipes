@@ -1,0 +1,63 @@
+.title {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 60px;
+  text-align: center;
+  background-color: cyan;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img img {
+  border-radius: 20px;
+  width: 350px;
+  height: 300px;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+
+.recipes {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subtitle-recipe {
+  font-size: 30px;
+  margin-bottom: 0px;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.text {
+  font-size: 20px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  background-color: darkcyan;
+  border-radius: 5px;
+  width: 60px;
+  height: 30px;
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+  padding: 5px;
+}
